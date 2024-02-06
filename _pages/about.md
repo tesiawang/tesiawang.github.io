@@ -8,44 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D candidate in Institute for [Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am very fortunate to have [Professor Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. I studied at [School of Transportation](https://tc.seu.edu.cn/jt_en/main.psp), Southeast University from Aug 2016 to September 2017 as I was a freshman. My research interests mainly lie in systems security, especially, the trusted execution environment (TEE), including its applications, side channels, formal models, and combination with cryptography. 
+I am now a Ph.D candidate in Institute for [Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. I studied at [School of Transportation](https://tc.seu.edu.cn/jt_en/main.psp), Southeast University from Aug 2016 to September 2017 as I was a freshman. My research interests mainly lie in systems security, especially, the trusted execution environment (TEE), including its applications, side channels, formal models, and combination with cryptography. 
 
+## Publications
+* **BULKOR: Enabling Bulk Loading for Path ORAM**  
+    *Xiang Li*, Yunqian Luo, and Mingyu Gao  
+    *S&P 2024* [PDF](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a103/1Ub23aTrrDa)/[Code](https://github.com/tsinghua-ideal/bulkor)
+* **Secure MLaaS with Temper: Trusted and Efficient Model Partitioning and Enclave Reuse**  
+    Fabing Li, *Xiang Li*, and Mingyu Gao  
+    *ACSAC 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/temper.acsac23.pdf)/[Code](https://github.com/tsinghua-ideal/TEMPER-Secure-MLaaS)
+* **SODA: A Set of Fast Oblivious Algorithms in Distributed Secure Data Analytics**  
+    *Xiang Li*, Nuozhou Sun, Yunqian Luo, and Mingyu Gao  
+    *VLDB 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/soda.vldb23.pdf)/[Code](https://github.com/tsinghua-ideal/flare/tree/oblivious_soda)
+* **Flare: A Fast, Secure, and Memory-Efficient Distributed Analytics Framework**  
+    *Xiang Li*, Fabing Li, and Mingyu Gao  
+    *VLDB 2023* [PDF](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/flare.vldb23.pdf)/[Code](https://github.com/tsinghua-ideal/flare)
+* **DHS: Adaptive Memory Layout Organization of Sketch Slots for Fast and Accurate Data Stream Processing**  
+    Bohan Zhao, *Xiang Li*, Boyu Tian, Zhiyu Mei, Wenfei Wu  
+    *KDD 2021* [PDF](https://dl.acm.org/doi/pdf/10.1145/3447548.3467353https://dl.acm.org/doi/pdf/10.1145/3447548.3467353)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Education
+* **Tsinghua University**  
+    Ph.D. student in computer science at [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep 2020 - present.
+* **Southeast University**  
+    B.Eng. in Information Engineering at [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/). Sep 2017 - Jun 2020.  
+    undergraduate student in Transportation Engineering at [School of Transportation](https://tc.seu.edu.cn/jt_en/main.psp). Aug 2016 - Sep 2017. 
+    
+## Experiences
+* **Huawei**  
+    Research intern in System Security Technology Lab. Mentor: Dr. Peng Xu and Dr. Yin Tan. Oct 2023 - present.
+* **Ant Group**  
+    Research intern in Confidential Computing Department. Mentor: Dr. Hongliang Tian. Sep 2022 - Oct 2023.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Teaching
+* **Teaching Assistant** 20470084 Computer Architecture - Fall 2022.
+* **Teaching Assistant** 80470262 Computer Systems and Architectures - Fall 2021.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Honors and Awards
+* Comprehensive Excellence Scholarship of Tsinghua University (清华大学综合优秀奖学金), 2023.
+* Comprehensive Excellence Scholarship of IIIS (交叉信息院综合优秀奖学金), 2022, 2023.
+* Cyrus Tang Scholarship (唐仲英德育奖学金), 2016-2020.
