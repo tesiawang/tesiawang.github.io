@@ -38,7 +38,7 @@ I am now a Ph.D candidate in [Institute for Interdisciplinary Information Scienc
 * **Huawei**  
     Research intern in System Security Technology Lab. Mentor: Dr. Peng Xu and Dr. Yin Tan. Oct 2023 - present.
 * **Ant Group**  
-    Research intern in Confidential Computing Department. Mentor: Dr. Hongliang Tian. Sep 2022 - Oct 2023.
+    Research intern in Security and Trust Division (S&T). Mentor: Dr. Hongliang Tian. Sep 2022 - Oct 2023.
 
 ## Teaching
 * **Teaching Assistant** 20470084 Computer Architecture - Fall 2022.
