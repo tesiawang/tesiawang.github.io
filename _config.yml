@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiang Li (李想)"
-  avatar           : "profile.png"
+  avatar           : "https://AmbitionXiang.github.io/images/xiang.jpg"
   bio              : "PhD candidate at IIIS, Tsinghua University"
   location         : "Beijing, China"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
