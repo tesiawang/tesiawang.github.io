@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D candidate in [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. I studied at [School of Transportation](https://tc.seu.edu.cn/jt_en/main.psp), Southeast University from Aug 2016 to September 2017 as I was a freshman. My research interests mainly lie in systems security, especially, the trusted execution environment (TEE), including its applications, side channels, formal models, and combination with cryptography. 
+I am now a Ph.D candidate in [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. My research interests mainly lie in systems security, especially, the trusted execution environment (TEE), including its applications, side channels, formal models, and combination with cryptography. 
 
 ## Publications
 * **BULKOR: Enabling Bulk Loading for Path ORAM**  
@@ -29,10 +29,10 @@ I am now a Ph.D candidate in [Institute for Interdisciplinary Information Scienc
 
 ## Education
 * **Tsinghua University**  
-    Ph.D. student in computer science at [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep 2020 - present.
+    - Ph.D. student in computer science at [IIIS](https://iiis.tsinghua.edu.cn/en/), advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Sep 2020 - present.
 * **Southeast University**  
-    B.Eng. in Information Engineering at [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/). Sep 2017 - Jun 2020.  
-    undergraduate student in Transportation Engineering at [School of Transportation](https://tc.seu.edu.cn/jt_en/main.psp). Aug 2016 - Sep 2017. 
+    - B.Eng. in Information Engineering at [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/). Sep 2017 - Jun 2020.  
+    - Undergraduate student in Transportation Engineering at [School of Transportation](https://tc.seu.edu.cn/jt_en/main.psp). Aug 2016 - Sep 2017. 
     
 ## Experiences
 * **Huawei**  
