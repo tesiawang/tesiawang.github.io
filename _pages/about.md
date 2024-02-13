@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D candidate in [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. My research interests mainly lie in systems security, especially, the trusted execution environment (TEE), including its applications, side channels, formal models, and combination with cryptography. 
+I am now a Ph.D candidate in [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). I am very fortunate to have [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/) as my advisor. Before joining Tsinghua, I obtained a bachelor's degree from [School of Information Science and Engineering](https://radio.seu.edu.cn/newenglish/), [Southeast University](https://www.seu.edu.cn/english/main.htm) in 2020. My research interests mainly lie in system security, especially, the trusted execution environment (TEE), including its applications, side channels, formal models, and combination with cryptography. 
 
 ## Publications
 * **BULKOR: Enabling Bulk Loading for Path ORAM**  
