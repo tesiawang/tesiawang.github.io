@@ -36,7 +36,7 @@ I am now a Ph.D candidate in [Institute for Interdisciplinary Information Scienc
     
 ## Experiences
 * **Huawei**  
-    Research intern in System Security Technology Lab. Mentor: Dr. Peng Xu and Dr. Yin Tan. Oct 2023 - present.
+    Research intern in System Security Technology Lab. Mentor: Dr. Peng Xu. Oct 2023 - present.
 * **Ant Group**  
     Research intern in Security and Trust Division (S&T). Mentor: Dr. Hongliang Tian. Sep 2022 - Oct 2023.
 
