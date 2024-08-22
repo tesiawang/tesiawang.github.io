@@ -27,9 +27,9 @@ My research interests mainly lie in the intersection of wireless networks and ma
 <!-- TIP -->
 <img align="left" width="100" src="/images/xin.jpg" style="margin-right: 15px" /> 
 
-[TIP: Tabular-Image Pre-training for Multimodal Classification with Incomplete Data](http://arxiv.org/abs/2407.075823) \
-**Siyi Du**, Shaoming Zheng, Yinsong Wang, Wenjia Bai, Declan P. O'Regan, Chen Qin   \
-*ECCV*, 2024  \
+[LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Learning](http://arxiv.org/abs/2407.075823) \
+ **Tianxin Wang**, Suhong Chen, Yifei Zhu, Aimin Tang, Xudong Wang \
+    *IEEE Journal on Selected Areas in Communications 2022* 
 [arXiv](http://arxiv.org/abs/2407.07582) / [code](https://github.com/siyi-wind/TIP)
 
 
