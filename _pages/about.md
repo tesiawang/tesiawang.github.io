@@ -17,7 +17,7 @@ From August 2023 to February 2025, I will be visiting [Intelligent Transmission 
 My research interests mainly lie in the intersection of wireless networks and machine learning.
 
 ## News 🕊️
-* [*07-2024*] I landed in London, United Kingdom on 26th August, 2023!
+* [*08-2024*] I landed in London, United Kingdom on 26th August, 2023!
 
 ## Education
 
