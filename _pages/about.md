@@ -51,11 +51,11 @@ SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Network
 
 LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9791425)] \
  **T. Wang**, S. Chen, Y. Zhu, A. Tang and X. Wang \
-    *IEEE Journal on Selected Areas in Communications*, vol. 40, no. 8, pp. 2378-2394, Aug. 2022. **[JCR-Q1, IF = 13.8]**
+    *IEEE Journal on Selected Areas in Communications*, 2022. **[JCR-Q1, IF = 13.8]**
     
 
 <!-- deeprp -->
-<img align="left" width="300" src="/images/deeprp.png" style="margin-right: 15px" /> 
+<img align="left" width="250" src="/images/deeprp.png" style="margin-right: 15px" /> 
 
 DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentation \
  **T. Wang** and X. Wang \
@@ -64,7 +64,7 @@ DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentati
 
 ### Conference
 <!-- pfedrx -->
-<img align="left" width="300" src="/images/pfedrx.png" style="margin-right: 15px" /> 
+<img align="left" width="250" src="/images/pfedrx.png" style="margin-right: 15px" /> 
 
 Collaborative Learning for Less Online Retraining of Neural Receivers \
  **T. Wang**, S. Wang, X. Wang, and G. Y. Li \
