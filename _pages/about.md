@@ -37,7 +37,7 @@ My research interests mainly lie in the intersection of wireless networks and ma
 - Secondary Education
 
 ## Publications
-### Journal
+### *Journal*
 <!-- sideseeker -->
 <img align="left" width="300" src="/images/sideseeker.png" style="margin-right: 15px" /> 
 
@@ -62,7 +62,7 @@ DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentati
     *Submitted to IEEE Transactions on Mobile Computing* (major revision).
 
 
-### Conference
+### *Conference*
 <!-- pfedrx -->
 <img align="left" width="250" src="/images/pfedrx.png" style="margin-right: 15px" /> 
 
@@ -94,7 +94,7 @@ FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neura
  S. Wang, **T. Wang**, and X. Wang \
     *Submitted to IEEE INFOCOM 2025 - IEEE Conference on Computer Communications*.
 
-### Patent
+### *Patent*
 <!-- sideprobe -->
 <img align="left" width="300" src="/images/sideprobe.png" style="margin-right: 15px" /> 
 
