@@ -88,7 +88,7 @@ GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neur
 
 
 <!-- fedpda -->
-<img align="left" width="300" src="/images/fedpda.png" style="margin-right: 15px" /> 
+<img align="left" width="350" src="/images/fedpda.png" style="margin-right: 15px" /> 
 
 FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers \
  S. Wang, **T. Wang**, and X. Wang \
@@ -100,8 +100,11 @@ FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neura
 
 A Method for Distributed Network Topology Reconfiguration Under Centralized Coordination \
  **T. Wang**, A. Tang, X. Wang, and Z. Li \
-    Patent Application, PCT/CN2023/085658, Mar. 2023.
-    
+    Patent Application, PCT/CN2023/085658, Mar. 2023. <br>
+<br>
+<br>
+<br>
+<br>
 
 ## Honors and Awards
 - Full scholarship of SJTU Zhiyuan Honors Doctorate Program, 2020 - 2025
