@@ -39,7 +39,7 @@ My research interests mainly lie in the intersection of wireless networks and ma
 ## Publications
 ### Journal
 <!-- sideseeker -->
-<img align="left" width="100" src="/images/sideseeker.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/sideseeker.png" style="margin-right: 15px" /> 
 
 SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Networks [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643156)] \
  **T. Wang**, X. Wang and Y. -B. Lin \
@@ -47,7 +47,7 @@ SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Network
 
 
 <!-- linkslice -->
-<img align="left" width="100" src="/images/linkslice.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/linkslice.png" style="margin-right: 15px" /> 
 
 LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9791425)] \
  **T. Wang**, S. Chen, Y. Zhu, A. Tang and X. Wang \
@@ -55,7 +55,7 @@ LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Le
     
 
 <!-- deeprp -->
-<img align="left" width="100" src="/images/deeprp.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/deeprp.png" style="margin-right: 15px" /> 
 
 DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentation \
  **T. Wang** and X. Wang \
@@ -64,7 +64,7 @@ DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentati
 
 ### Conference
 <!-- pfedrx -->
-<img align="left" width="100" src="/images/pfedrx.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/pfedrx.png" style="margin-right: 15px" /> 
 
 Collaborative Learning for Less Online Retraining of Neural Receivers \
  **T. Wang**, S. Wang, X. Wang, and G. Y. Li \
@@ -72,7 +72,7 @@ Collaborative Learning for Less Online Retraining of Neural Receivers \
 
 
 <!-- gc23 -->
-<img align="left" width="100" src="/images/gc23.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/gc23.png" style="margin-right: 15px" /> 
 
 Boosting Capacity for 6G Terahertz Mesh Networks Based on Bottleneck Structures [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10436964)]\
  **T. Wang** and X. Wang \
@@ -80,7 +80,7 @@ Boosting Capacity for 6G Terahertz Mesh Networks Based on Bottleneck Structures 
 
     
 <!-- graphrx -->
-<img align="left" width="100" src="/images/graphrx.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/graphrx.png" style="margin-right: 15px" /> 
 
 GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neural Receivers \
  **T. Wang**, X. Wang, and G. Y. Li \
@@ -88,7 +88,7 @@ GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neur
 
 
 <!-- fedpda -->
-<img align="left" width="100" src="/images/fedpda.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/fedpda.png" style="margin-right: 15px" /> 
 
 FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers \
  S. Wang, **T. Wang**, and X. Wang \
@@ -96,7 +96,7 @@ FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neura
 
 ### Patent
 <!-- sideprobe -->
-<img align="left" width="100" src="/images/sideprobe.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/sideprobe.png" style="margin-right: 15px" /> 
 
 A Method for Distributed Network Topology Reconfiguration Under Centralized Coordination \
  **T. Wang**, A. Tang, X. Wang, and Z. Li \
