@@ -70,7 +70,7 @@ FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neura
 <br>
 <br>
 
-### *Patent*
+## *Patent*
 <!-- sideprobe -->
 <img align="left" width="300" src="/images/sideprobe.png" style="margin-right: 15px" /> 
 
