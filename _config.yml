@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianxin Wang's Homepage"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Tianxin Wang"
 description              : &description "PhD candidate at Shanghai JiaoTong University"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Tianxin Wang"
-  avatar           : "https://tesiawang.github.io/images/xin.jpg"
+  avatar           : "https://tesiawang.github.io/images/tianxin.jpg"
   bio              : "PhD candidate at Shanghai Jiao Tong University"
   location         : "London, UK"
   googlescholar    : "https://scholar.google.com/citations?user=vVBJRXYAAAAJ&hl=en"
   email            : "tianxin.wang@sjtu.edu.cn"
   github           : "tesiawang"
   linkedin         : "tianxin-wang-1432101b4"
-  # orcid            : "https://orcid.org/0000-0001-8906-0832"
+  orcid            : "https://orcid.org/0000-0002-5210-1853"
 
 
 # Reading Files
