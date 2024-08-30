@@ -11,9 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- **Imperial College London**, Sep 2023 - On
+  - Ph.D. visiting student, advised by Prof. Geoffrey Ye Li
+
+- **Shanghai Jiao Tong University (SJTU)**, Sep 2020 - Sep 2025 (Expected)
+  - Ph.D. candidate, Information and Communication Engineering (GPA: 3.8/4.0), advised by Prof. Xudong Wang
+
+- **Hong Kong Polytechnic University**, Sep 2017 - Jan 2018
+  - Exchange student, Electronic Information Engineering (GPA: 4.0/4.0)
+
+- **Southeast University (SEU)**, Sep 2016 - Jun 2020
+  - B.S., Information Science and Engineering, Grade: 91.2/100 (Ranking: Top 5%)
+
+- **Jin Ling High School**, Sep 2013 - Jun 2016
+  - Secondary Education
 
 Work experience
 ======
