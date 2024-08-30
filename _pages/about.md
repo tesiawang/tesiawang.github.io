@@ -55,7 +55,7 @@ LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Le
     
 
 <!-- deeprp -->
-<img align="left" width="250" src="/images/deeprp.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/deeprp.png" style="margin-right: 15px" /> 
 
 DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentation \
  **T. Wang** and X. Wang \
@@ -64,7 +64,7 @@ DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentati
 
 ### *Conference*
 <!-- pfedrx -->
-<img align="left" width="250" src="/images/pfedrx.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/pfedrx.png" style="margin-right: 15px" /> 
 
 Collaborative Learning for Less Online Retraining of Neural Receivers \
  **T. Wang**, S. Wang, X. Wang, and G. Y. Li \
@@ -88,7 +88,7 @@ GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neur
 
 
 <!-- fedpda -->
-<img align="left" width="350" src="/images/fedpda.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/fedpda.png" style="margin-right: 15px" /> 
 
 FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers \
  S. Wang, **T. Wang**, and X. Wang \
