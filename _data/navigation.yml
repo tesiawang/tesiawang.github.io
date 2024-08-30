@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Education & CV"
+  - title: "Experiences & CV"
     url: /cv/
     
   - title: "Publications"
@@ -9,7 +9,7 @@ main:
   - title: "Awards"
     url: /awards/
     
-  - title: "Services"
+  - title: "Service"
     url: /service/
     
   - title: "Misc"

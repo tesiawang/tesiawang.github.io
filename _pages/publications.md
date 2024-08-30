@@ -5,15 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-===
-## Journal
+## *Journal*
 <!-- sideseeker -->
 <img align="left" width="300" src="/images/sideseeker.png" style="margin-right: 15px" /> 
 
 SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Networks [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643156)] \
  **T. Wang**, X. Wang and Y. -B. Lin \
-    *IEEE Wireless Communications Letters*, early access, 2024. **[JCR-Q1, IF = 4.6]**
+    *IEEE Wireless Communications Letters*, early access, 2024. **[JCR-Q1, IF = 4.6]**<br>
+<br>
 
 
 <!-- linkslice -->
@@ -21,8 +20,9 @@ SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Network
 
 LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9791425)] \
  **T. Wang**, S. Chen, Y. Zhu, A. Tang and X. Wang \
-    *IEEE Journal on Selected Areas in Communications*, 2022. **[JCR-Q1, IF = 13.8]**
-    
+    *IEEE Journal on Selected Areas in Communications*, 2022. **[JCR-Q1, IF = 13.8]**<br>
+<br>
+<br>
 
 <!-- deeprp -->
 <img align="left" width="300" src="/images/deeprp.png" style="margin-right: 15px" /> 
@@ -33,7 +33,7 @@ DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentati
 <br>
 <br>
 
-## Conference
+## *Conference*
 <!-- pfedrx -->
 <img align="left" width="300" src="/images/pfedrx.png" style="margin-right: 15px" /> 
 
@@ -57,15 +57,18 @@ Boosting Capacity for 6G Terahertz Mesh Networks Based on Bottleneck Structures 
 
 GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neural Receivers \
  **T. Wang**, X. Wang, and G. Y. Li \
-    *Submitted to IEEE INFOCOM 2025 - IEEE Conference on Computer Communications*.
-
+    *Submitted to IEEE INFOCOM 2025 - IEEE Conference on Computer Communications*. <br>
+<br>
+<br>
 
 <!-- fedpda -->
 <img align="left" width="300" src="/images/fedpda.png" style="margin-right: 15px" /> 
 
 FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers \
  S. Wang, **T. Wang**, and X. Wang \
-    *Submitted to IEEE INFOCOM 2025 - IEEE Conference on Computer Communications*.
+    *Submitted to IEEE INFOCOM 2025 - IEEE Conference on Computer Communications*. <br>
+<br>
+<br>
 
 ### *Patent*
 <!-- sideprobe -->
@@ -76,5 +79,4 @@ A Method for Distributed Network Topology Reconfiguration Under Centralized Coor
     Patent Application, PCT/CN2023/085658, Mar. 2023. <br>
 <br>
 <br>
-<br>
-<br>
+
