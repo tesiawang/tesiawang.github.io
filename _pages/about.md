@@ -18,9 +18,9 @@ My research interests mainly lie in the intersection of wireless networks and ma
 
 ## News 🕊️
 * [*08-2024*] One paper on sidelink research is accepted and published in IEEE Wireless Communication Letter!
-* [*07-2024*] One paper on neural receiver is accepted by MLSP 2024! See you in beautiful September of London :smile_cat:.
+* [*07-2024*] One paper on neural receiver is accepted by MLSP 2024! See you in beautiful September of London 😆.
 * [*07-2024*] Two papers on the application of federated learning are submitted to IEEE INFOCOM 2024. Hope for the best (finger crossed) .
-* [*08-2023*] I arrive in the city of my dream today :satisfied: (26th August). Hope I will never get tired of London.
+* [*08-2023*] I arrive in the city of my dream today 😸 (26th August). Hope I will never get tired of London.
 * [*12-2023*] We attend IEEE Globecom 2023 and present our paper on Terahertz networking!
 * [*07-2023*] I receive the first prize (Top 3/70) in Oral Presentation of 2023 SJTU Boxue Zhiyuan Doctoral Academic Forum!
 
