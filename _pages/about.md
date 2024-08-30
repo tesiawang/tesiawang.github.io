@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tianxin (Tesia) Wang"
+title: "Tianxin Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
