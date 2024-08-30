@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Miscalleneous"
+permalink: /misc/
 author_profile: true
 ---
 
