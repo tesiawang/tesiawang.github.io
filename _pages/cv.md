@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
 [Download a full-version CV here]()
 
 Education
