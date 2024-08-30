@@ -49,16 +49,15 @@ Collaborative Learning for Less Online Retraining of Neural Receivers \
 
 Boosting Capacity for 6G Terahertz Mesh Networks Based on Bottleneck Structures [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10436964)]\
  **T. Wang** and X. Wang \
-    *Proceedings of GLOBECOM 2023-2023 IEEE Global Communications Conference*, 2023, pp. 4589-4594.
+    *Proceedings of GLOBECOM 2023-2023 IEEE Global Communications Conference*, 2023, pp. 4589-4594.<br>
+<br>
 
-    
 <!-- graphrx -->
 <img align="left" width="300" src="/images/graphrx.png" style="margin-right: 15px" /> 
 
 GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neural Receivers \
  **T. Wang**, X. Wang, and G. Y. Li \
     *Submitted to IEEE INFOCOM 2025 - IEEE Conference on Computer Communications*. <br>
-<br>
 <br>
 
 <!-- fedpda -->
