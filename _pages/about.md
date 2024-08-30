@@ -59,8 +59,9 @@ LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Le
 
 DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentation \
  **T. Wang** and X. Wang \
-    *Submitted to IEEE Transactions on Mobile Computing* (major revision).
-
+    *Submitted to IEEE Transactions on Mobile Computing* (major revision).<br>
+<br>
+<br>
 
 ### *Conference*
 <!-- pfedrx -->
@@ -68,7 +69,9 @@ DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentati
 
 Collaborative Learning for Less Online Retraining of Neural Receivers \
  **T. Wang**, S. Wang, X. Wang, and G. Y. Li \
-    *Accepted by MLSP 2024-2024 IEEE Workshop on Machine Learning for Signal Processing*, 2024.
+    *Accepted by MLSP 2024-2024 IEEE Workshop on Machine Learning for Signal Processing*, 2024.<br>
+<br>
+<br>
 
 
 <!-- gc23 -->
