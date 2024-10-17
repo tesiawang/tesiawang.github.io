@@ -5,16 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## *Journal*
-<!-- sideseeker -->
-<img align="left" width="300" src="/images/sideseeker.png" style="margin-right: 15px" /> 
-
-SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Networks [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643156)] \
- **T. Wang**, X. Wang and Y. -B. Lin \
-    *IEEE Wireless Communications Letters*, early access, 2024. **[JCR-Q1, IF = 4.6]**<br>
-<br>
-
-
+## *Journals*
 <!-- linkslice -->
 <img align="left" width="300" src="/images/linkslice.png" style="margin-right: 15px" /> 
 
@@ -24,22 +15,32 @@ LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Le
 <br>
 <br>
 
+
 <!-- deeprp -->
 <img align="left" width="300" src="/images/deeprp.png" style="margin-right: 15px" /> 
 
 DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentation \
  **T. Wang** and X. Wang \
-    *Submitted to IEEE Transactions on Mobile Computing* (major revision).<br>
+    *IEEE Transactions on Mobile Computing*, early access, 2024.<br>
 <br>
 <br>
 
-## *Conference*
+
+<!-- sideseeker -->
+<img align="left" width="300" src="/images/sideseeker.png" style="margin-right: 15px" /> 
+
+SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Networks [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643156)] \
+ **T. Wang**, X. Wang and Y. -B. Lin \
+    *IEEE Wireless Communications Letters*, early access, 2024. **[JCR-Q1, IF = 4.6]**<br>
+<br>
+
+## *Conferences*
 <!-- pfedrx -->
 <img align="left" width="300" src="/images/pfedrx.png" style="margin-right: 15px" /> 
 
 Collaborative Learning for Less Online Retraining of Neural Receivers \
  **T. Wang**, S. Wang, X. Wang, and G. Y. Li \
-    *Accepted by MLSP 2024-2024 IEEE Workshop on Machine Learning for Signal Processing*, 2024.<br>
+    *Proceedings of MLSP 2024-2024 IEEE Workshop on Machine Learning for Signal Processing*, 2024.<br>
 <br>
 <br>
 
@@ -69,7 +70,7 @@ FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neura
 <br>
 <br>
 
-## *Patent*
+## *Patents*
 <!-- sideprobe -->
 <img align="left" width="300" src="/images/sideprobe.png" style="margin-right: 15px" /> 
 
