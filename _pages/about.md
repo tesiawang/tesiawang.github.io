@@ -17,6 +17,7 @@ From August 2023 to February 2025, I will be visiting [Intelligent Transmission 
 My research interests mainly lie in the intersection of wireless networks and machine learning.
 
 ## News 🕊️
+* [*10-2024*] One paper on bottleneck theory of wireless networks is accepted by IEEE Transactions on Mobile Computing!
 * [*08-2024*] One paper on sidelink research is accepted and published in IEEE Wireless Communication Letter!
 * [*07-2024*] One paper on neural receiver is accepted by MLSP 2024! See you in beautiful September of London 😆.
 * [*07-2024*] Two papers on the application of federated learning are submitted to IEEE INFOCOM 2024. Hope for the best (finger crossed) .
