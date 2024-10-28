@@ -10,7 +10,7 @@ redirect_from:
 
 **Aloha, this is Tianxin (天欣).**
 
-I am a fifth-year Ph.D candidate in [Wireless Network and Artificial Intelligence Lab](https://wanglab.sjtu.edu.cn/en/Default.aspx), Shanghai Jiao Tong University (SJTU). I am fortunate to be supervised by Prof. [Xudong Wang](https://scholar.google.com/citations?user=oG2PlTsAAAAJ&hl=en&oi=ao) from SJTU and Prof. [Geoffrey Ye Li](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao) from Imperial College London. During PhD, it is my honor to to receive the full scholarship of [SJTU Zhiyuan Honors Doctorate Program](https://en.zhiyuan.sjtu.edu.cn/en/about/overview). Before that, I obtained my bachelor's degree from School of Information Science and Engineering, Southeast University in 2020.
+I am a fifth-year Ph.D candidate in [Wireless Network and Artificial Intelligence Lab](https://wanglab.sjtu.edu.cn/en/Default.aspx), Shanghai Jiao Tong University (SJTU). I am fortunate to be supervised by Prof. [Xudong Wang](https://scholar.google.com/citations?user=oG2PlTsAAAAJ&hl=en&oi=ao) from SJTU and Prof. [Geoffrey Ye Li](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao) from Imperial College London. During PhD, it is my honor to receive full scholarship of [SJTU Zhiyuan Honors Doctorate Program](https://en.zhiyuan.sjtu.edu.cn/en/about/overview). Before that, I obtained my bachelor's degree from School of Information Science and Engineering, Southeast University in 2020.
 
 From Sep. 2023 to Feb. 2025, I am a PhD visiting student in [Intelligent Transmission and Processing Lab (ITP)](https://www.imperial.ac.uk/intelligent-transmission-and-processing-laboratory) in Imperial College London, supervised by Prof. Geoffrey Ye Li. 
 
