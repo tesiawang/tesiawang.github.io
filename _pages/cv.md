@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Please find the full-version CV here (Updated 10/28/2024)](/files/CV_tianxin_updated.pdf)
+[Please find the up-to-date CV here (Updated 10/28/2024)](/files/CV_tianxin_updated.pdf)
 
 ## Education
 
@@ -37,12 +37,12 @@ redirect_from:
 ## Research & Work Experience
 ### Intelligent Transmission and Processing Laboratory, Imperial College London
 *Graduate Research Assistant*  (*Sep 2023 - On*)
-- Worked on **AI for Communications**: federated learning, test-time adaptation of neural receivers
+- Worked on **AI for Communications**: test-time adaptation of neural receivers, collaborative learning for developing for generalizable and robust neural receivers
 - Location: London, U.K.
 
 ### Wireless Networking and Artificial Intelligence Lab, UM-SJTU Joint Institute
 *Graduate Research Assistant*  (*Sep 2020 - On*)  
-- Worked on **AI for Network**: network slicing, relay selection and placement, etc.
+- Worked on **AI for Network**: network slicing for radio access networks, resource and topology planning for high-frequency backhaul mesh networks, and etc.
 - Location: Shanghai, China
 
 ### National Mobile Communications Research Laboratory, Southeast University
