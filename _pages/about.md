@@ -20,7 +20,7 @@ Regarding research interests, I always hold a passion for developing AI-assisted
 * [*10-2024*] One paper on bottleneck theory of wireless networks is accepted by IEEE Transactions on Mobile Computing!
 * [*08-2024*] One paper on sidelink mesh networks is accepted and published in IEEE Wireless Communication Letter!
 * [*07-2024*] One paper on neural receiver is accepted by MLSP 2024! See you in the beautiful September of London 😆.
-* [*07-2024*] Two papers on the novel federated learning algorithms for neural receivers are submitted to IEEE INFOCOM 2025. Finger-crossed :crossed_fingers!
+* [*07-2024*] Two papers on the novel federated learning algorithms for neural receivers are submitted to IEEE INFOCOM 2025. Finger-crossed 🙏!
 * [*08-2023*] I arrived in London, UK 😸!
 * [*12-2023*] We attended IEEE Globecom 2023 and presented our paper on Terahertz networking!
 * [*07-2023*] I received the first prize (Top 3/70) in Oral Presentation of 2023 SJTU Boxue Zhiyuan Doctoral Academic Forum!
