@@ -19,7 +19,7 @@ LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Le
 <!-- deeprp -->
 <img align="left" width="300" src="/images/deeprp.png" style="margin-right: 15px" /> 
 
-DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentation \
+DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentation  [[Paper](\files\TMC_DeepRP_Camera_Ready)]\
  **T. Wang** and X. Wang \
     *IEEE Transactions on Mobile Computing*, early access, 2024.<br>
 <br>
@@ -38,7 +38,7 @@ SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Network
 <!-- pfedrx -->
 <img align="left" width="300" src="/images/pfedrx.png" style="margin-right: 15px" /> 
 
-Collaborative Learning for Less Online Retraining of Neural Receivers \
+Collaborative Learning for Less Online Retraining of Neural Receivers  [[Paper](\files\pFedRx)] \
  **T. Wang**, S. Wang, X. Wang, and G. Y. Li \
     *Proceedings of MLSP 2024-2024 IEEE Workshop on Machine Learning for Signal Processing*, 2024.<br>
 <br>
