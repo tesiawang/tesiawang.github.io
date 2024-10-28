@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Please find the full-version CV here](/files/CV_Tianxin_2024_updated.pdf)
+[Please find the full-version CV here (Updated 10/28/2024)](/files/CV_Tianxin_2024_updated.pdf)
 
 ## Education
 
