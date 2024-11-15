@@ -58,7 +58,7 @@ Boosting Capacity for 6G Terahertz Mesh Networks Based on Bottleneck Structures 
 
 GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neural Receivers \
  **T. Wang**, X. Wang, and G. Y. Li \
-    *Submitted to IEEE INFOCOM 2025 - IEEE Conference on Computer Communications*. <br>
+    *In submission*. <br>
 <br>
 
 <!-- fedpda -->
@@ -66,7 +66,7 @@ GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neur
 
 FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers \
  S. Wang, **T. Wang**, and X. Wang \
-    *Submitted to IEEE INFOCOM 2025 - IEEE Conference on Computer Communications*. <br>
+    *In submission*. <br>
 <br>
 <br>
 
