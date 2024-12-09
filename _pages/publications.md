@@ -4,6 +4,42 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## *Conferences*
+
+<!-- graphrx -->
+<img align="left" width="300" src="/images/graphrx.png" style="margin-right: 15px" /> 
+
+GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neural Receivers \
+ **T. Wang**, X. Wang, and G. Y. Li \
+    *Accepted by IEEE INFOCOM 2025 (**Acceptance rate=18.6%**)*. <br>
+<br>
+
+<!-- fedpda -->
+<img align="left" width="300" src="/images/fedpda.png" style="margin-right: 15px" /> 
+
+FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers \
+ S. Wang, **T. Wang**, and X. Wang \
+    *Accepted by IEEE INFOCOM 2025 (**Acceptance rate=18.6%**)*. <br>
+<br>
+<br>
+
+<!-- pfedrx -->
+<img align="left" width="300" src="/images/pfedrx.png" style="margin-right: 15px" /> 
+
+Collaborative Learning for Less Online Retraining of Neural Receivers  [[Paper](/files/pFedRx.pdf)] \
+ **T. Wang**, S. Wang, X. Wang, and G. Y. Li \
+    *Proceedings of MLSP 2024-2024 IEEE Workshop on Machine Learning for Signal Processing*, 2024.<br>
+<br>
+<br>
+
+<!-- gc23 -->
+<img align="left" width="300" src="/images/gc23.png" style="margin-right: 15px" /> 
+
+Boosting Capacity for 6G Terahertz Mesh Networks Based on Bottleneck Structures [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10436964)]\
+ **T. Wang** and X. Wang \
+    *Proceedings of GLOBECOM 2023-2023 IEEE Global Communications Conference*, 2023, pp. 4589-4594.<br>
+<br>
+
 
 ## *Journals*
 <!-- linkslice -->
@@ -32,42 +68,6 @@ DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentati
 SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Networks [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10643156)] \
  **T. Wang**, X. Wang and Y. -B. Lin \
     *IEEE Wireless Communications Letters*, early access, 2024. **[JCR-Q1, IF = 4.6]**<br>
-<br>
-
-## *Conferences*
-<!-- pfedrx -->
-<img align="left" width="300" src="/images/pfedrx.png" style="margin-right: 15px" /> 
-
-Collaborative Learning for Less Online Retraining of Neural Receivers  [[Paper](/files/pFedRx.pdf)] \
- **T. Wang**, S. Wang, X. Wang, and G. Y. Li \
-    *Proceedings of MLSP 2024-2024 IEEE Workshop on Machine Learning for Signal Processing*, 2024.<br>
-<br>
-<br>
-
-
-<!-- gc23 -->
-<img align="left" width="300" src="/images/gc23.png" style="margin-right: 15px" /> 
-
-Boosting Capacity for 6G Terahertz Mesh Networks Based on Bottleneck Structures [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10436964)]\
- **T. Wang** and X. Wang \
-    *Proceedings of GLOBECOM 2023-2023 IEEE Global Communications Conference*, 2023, pp. 4589-4594.<br>
-<br>
-
-<!-- graphrx -->
-<img align="left" width="300" src="/images/graphrx.png" style="margin-right: 15px" /> 
-
-GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neural Receivers \
- **T. Wang**, X. Wang, and G. Y. Li \
-    *In submission*. <br>
-<br>
-
-<!-- fedpda -->
-<img align="left" width="300" src="/images/fedpda.png" style="margin-right: 15px" /> 
-
-FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers \
- S. Wang, **T. Wang**, and X. Wang \
-    *In submission*. <br>
-<br>
 <br>
 
 ## *Patents*
