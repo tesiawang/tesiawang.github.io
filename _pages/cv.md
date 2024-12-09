@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Please find the up-to-date CV here (Updated 10/28/2024)](/files/CV_tianxin_updated.pdf)
+[Please find the up-to-date CV here (Updated 9 Dec 2024)](/files/CV_tianxin_wang_1209.pdf)
 
 ## Education
 
