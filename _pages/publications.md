@@ -27,7 +27,7 @@ FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neura
 <!-- pfedrx -->
 <img align="left" width="300" src="/images/pfedrx.png" style="margin-right: 15px" /> 
 
-Collaborative Learning for Less Online Retraining of Neural Receivers  [[Paper](/files/pFedRx.pdf)] \
+Collaborative Learning for Less Online Retraining of Neural Receivers  [[Paper](https://ieeexplore.ieee.org/abstract/document/10734801)] \
  **T. Wang**, S. Wang, X. Wang, and G. Y. Li \
     *Proceedings of MLSP 2024-2024 IEEE Workshop on Machine Learning for Signal Processing*, 2024.<br>
 <br>
@@ -57,7 +57,7 @@ LinkSlice: Fine-Grained Network Slice Enforcement Based on Deep Reinforcement Le
 <!-- deeprp -->
 <img align="left" width="300" src="/images/deeprp.png" style="margin-right: 15px" /> 
 
-DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentation  [[Paper](/files/TMC_DeepRP_Camera_Ready.pdf)]\
+DeepRP: Bottleneck Theory Guided Relay Placement for 6G Mesh Backhaul Augmentation  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10736675)]\
  **T. Wang** and X. Wang \
     *IEEE Transactions on Mobile Computing*, early access, 2024.**[JCR-Q1, IF = 7.7]**<br>
 <br>
