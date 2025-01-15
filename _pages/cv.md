@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Please find the up-to-date CV here (Updated 9 Dec 2024)](/files/CV_tianxin_wang_1209.pdf)
-
 ## Education
 
 - **Imperial College London**, Sep 2023 - On
@@ -40,20 +38,7 @@ redirect_from:
 - Worked on **AI for Communications**: test-time adaptation of neural receivers, collaborative learning for developing for generalizable and robust neural receivers
 - Location: London, U.K.
 
-### Wireless Networking and Artificial Intelligence Lab, UM-SJTU Joint Institute
+### Wireless Networking and Artificial Intelligence Lab, Shanghai Jiao Tong University
 *Graduate Research Assistant*  (*Sep 2020 - On*)  
 - Worked on **AI for Network**: network slicing for radio access networks, resource and topology planning for high-frequency backhaul mesh networks, and etc.
 - Location: Shanghai, China
-
-### National Mobile Communications Research Laboratory, Southeast University
-*Undergraduate Research Assistant*  (*Jan 2019 - Jun 2019*)  
-- Implemented several signal processing algorithms for a 5.8GHz multi-antenna radar system
-- Conducted human movement detection based on the received signals
-- Location: Nanjing, China
-
-### Siemens Technology China
-*Software Engineering in Department of Internet-of-Things (IoT)*  (*Jun 2019 - Aug 2019*) 
-- Deployed network services for Siemens remote medical treatment platform
-- Deployed virtual network computing modules at the server side
-- Location: Suzhou, China
-
