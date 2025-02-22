@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+- Graduate Student Excellence Scholarship, 2023 - 2024
 - Full scholarship of SJTU Zhiyuan Honors Doctorate Program, 2020 - 2025
 - First prize in Oral Presentation of 2023 SJTU Boxue Zhiyuan Doctoral Academic Forum, 2023
 - Shanghai Jiao Tong University Merit Student 2021, 2022
@@ -13,4 +14,3 @@ author_profile: true
 - First prize in SEU Mathematical Contest in Modeling (MCM) 2018
 - Outstanding individual in college student union 2018
 - Han Sang Scholarship (Southeast University) 2017
-- Outstanding individual in college summer social practice 2017
