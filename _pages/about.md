@@ -15,6 +15,9 @@ I am a final-year Ph.D candidate in [Wireless Network and Artificial Intelligenc
 My PhD research is mainly focused on two parts: 1) AI-assisted network resource and topology planning; 2) AI-assisted wireless receivers. I am strongly interested in different layers of data networks, from network layer, MAC layer, to physical layer.
 
 ## News 🕊️
+* [*06-2025*] I received SJTU Development Scholarship.
+* [*06-2025*] Our demo paper got accepted by MobiUK 2025. See you in Edinburgh.
+* [*12-2024*] I received SJTU Graduate Student Excellence Scholarship (1/38).
 * [*12-2024*] Two papers on efficient FL and PFL algorithms are accepted by IEEE INFOCOM 2025 (acceptance ratio ~ 18.6%) 🔥! Big congrats 🎊!
 * [*10-2024*] One paper on bottleneck theory of wireless networks is accepted by IEEE Transactions on Mobile Computing!
 * [*08-2024*] One paper on sidelink mesh networks is accepted and published in IEEE Wireless Communication Letter!
