@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-- **Imperial College London**, Sep 2023 - On
+- **Imperial College London**, Sep 2023 - Jan 2025
   - Ph.D. visiting student, advised by Prof. Geoffrey Ye Li
 
 - **Shanghai Jiao Tong University (SJTU)**, Sep 2020 - Sep 2025 (Expected)
@@ -33,8 +33,13 @@ redirect_from:
 <br>
 
 ## Research & Work Experience
+### Networked System Lab, University of Edinburgh
+*Research Assistant* (*Feb 2025 - May 2025*)
+- Worked on a private 5G Open RAN testbed
+- Location: Edinburgh, U.K.
+
 ### Intelligent Transmission and Processing Laboratory, Imperial College London
-*Graduate Research Assistant*  (*Sep 2023 - On*)
+*Graduate Research Assistant*  (*Sep 2023 - Jan 2025*)
 - Worked on **AI for Communications**: test-time adaptation of neural receivers, collaborative learning for developing for generalizable and robust neural receivers
 - Location: London, U.K.
 
