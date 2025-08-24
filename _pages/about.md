@@ -10,7 +10,7 @@ redirect_from:
 
 **Aloha, this is Tianxin Wang (王天欣).**
 
-I am joining the School of Informatics at the University of Edinburgh as a Postdoctoral Research Associate. I earned my Ph.D. from Shanghai Jiao Tong University (SJTU) in 2025, complemented by two years of joint training at Imperial College London (2023 - 2025) under the [SJTU Zhiyuan Honors Doctorate Program](https://en.zhiyuan.sjtu.edu.cn/en/about/overview). I am fortunate to be co-supervised by Prof. [Xudong Wang](https://scholar.google.com/citations?user=oG2PlTsAAAAJ&hl=en&oi=ao) from SJTU and Prof. [Geoffrey Ye Li](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao) from Imperial. Before that, I obtained my bachelor's degree from School of Information Science and Engineering, Southeast University in 2020.
+I am joining the School of Informatics at the University of Edinburgh as a Postdoctoral Research Associate. I earned my Ph.D. from Shanghai Jiao Tong University (SJTU) in 2025, complemented by two years of joint training at Imperial College London (2023 - 2025) under the [SJTU Zhiyuan Honors Doctorate Program](https://en.zhiyuan.sjtu.edu.cn/en/about/overview). I was fortunate to be co-supervised by Prof. [Xudong Wang](https://scholar.google.com/citations?user=oG2PlTsAAAAJ&hl=en&oi=ao) from SJTU and Prof. [Geoffrey Ye Li](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao) from Imperial. Before that, I obtained my bachelor's degree from School of Information Science and Engineering, Southeast University in 2020.
 
 My current research interests are AI for networking, mobile network optimization, and Open RAN.
 
