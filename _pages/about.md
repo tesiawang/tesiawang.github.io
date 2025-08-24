@@ -10,11 +10,12 @@ redirect_from:
 
 **Aloha, this is Tianxin Wang (王天欣).**
 
-I am a final-year Ph.D candidate in [Wireless Network and Artificial Intelligence Lab](https://wanglab.sjtu.edu.cn/en/Default.aspx), Shanghai Jiao Tong University (SJTU). I am fortunate to be supervised by Prof. [Xudong Wang](https://scholar.google.com/citations?user=oG2PlTsAAAAJ&hl=en&oi=ao) from SJTU and Prof. [Geoffrey Ye Li](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao) from Imperial College London. During PhD, it is my honor to receive full scholarship of [SJTU Zhiyuan Honors Doctorate Program](https://en.zhiyuan.sjtu.edu.cn/en/about/overview). Before that, I obtained my bachelor's degree from School of Information Science and Engineering, Southeast University in 2020.
+I am joining the School of Informatics at the University of Edinburgh as a Postdoctoral Research Associate. I earned my Ph.D. from Shanghai Jiao Tong University (SJTU) in 2025, complemented by two years of joint training at Imperial College London (2023 - 2025) under the [SJTU Zhiyuan Honors Doctorate Program](https://en.zhiyuan.sjtu.edu.cn/en/about/overview)). I am fortunate to be co-supervised by Prof. [Xudong Wang](https://scholar.google.com/citations?user=oG2PlTsAAAAJ&hl=en&oi=ao) from SJTU and Prof. [Geoffrey Ye Li](https://scholar.google.com/citations?user=d0FzG8YAAAAJ&hl=en&oi=ao) from Imperial. Before that, I obtained my bachelor's degree from School of Information Science and Engineering, Southeast University in 2020.
 
-My PhD research is mainly focused on two parts: 1) AI-assisted network resource and topology planning; 2) AI-assisted wireless receivers. I am strongly interested in different layers of data networks, from network layer, MAC layer, to physical layer.
+My current research interests are AI for networking, mobile network optimization, and Open RAN.
 
 ## News 🕊️
+* [*08-2025*] I passed my final defense and became Dr.!!
 * [*06-2025*] I received SJTU Development Scholarship.
 * [*06-2025*] Our demo paper got accepted by MobiUK 2025. See you in Edinburgh.
 * [*12-2024*] I received SJTU Graduate Student Excellence Scholarship (1/38).
