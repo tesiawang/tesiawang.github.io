@@ -12,8 +12,8 @@ redirect_from:
 - **Imperial College London**, Sep 2023 - Jan 2025
   - Ph.D. visiting student, advised by Prof. Geoffrey Ye Li
 
-- **Shanghai Jiao Tong University (SJTU)**, Sep 2020 - Sep 2025 (Expected)
-  - Ph.D. candidate, Information and Communication Engineering (GPA: 3.8/4.0), advised by Prof. Xudong Wang
+- **Shanghai Jiao Tong University (SJTU)**, Sep 2020 - Aug 2025
+  - Ph.D., Information and Communication Engineering (GPA: 3.81/4.0), advised by Prof. Xudong Wang
 
 - **Hong Kong Polytechnic University**, Sep 2017 - Jan 2018
   - Exchange student, Electronic Information Engineering (GPA: 4.0/4.0)
