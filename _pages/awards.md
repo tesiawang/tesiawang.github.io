@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+- SJTU Development Scholarship for Outstanding Doctoral Graduates, 2024-2025
 - Graduate Student Excellence Scholarship, 2023 - 2024 
 - Full scholarship of SJTU Zhiyuan Honors Doctorate Program, 2020 - 2025
 - First prize in Oral Presentation of 2023 SJTU Boxue Zhiyuan Doctoral Academic Forum, 2023
