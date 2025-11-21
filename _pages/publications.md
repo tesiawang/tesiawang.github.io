@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Please refer to [Google Scholar](https://scholar.google.com/citations?user=vVBJRXYAAAAJ&hl=en) for my lastest publication list.
+
 ## *Conferences*
 
 <!-- graphrx -->
@@ -78,7 +80,7 @@ SideSeeker: Contention-Based Distributed Relay Finding for Sidelink Mesh Network
 
 A Method for Distributed Network Topology Reconfiguration Under Centralized Coordination \
  **T. Wang**, A. Tang, X. Wang, and Z. Li \
-    Patent Application, PCT/CN2023/085658, Mar. 2023. <br>
+    International Patent, WO/2024/197884, published in Oct. 2024. <br>
 <br>
 <br>
 
