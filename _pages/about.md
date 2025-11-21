@@ -15,7 +15,7 @@ I am a Postdoctoral Research Associate at the School of Informatics, the Univers
 My current research interests are AI for networking, mobile network optimization, and Open RAN.
 
 ## News 🕊️
-* [*11-2025*] We have won the Best Demo Award in MOBICOM 2025, Hong Kong!
+* [*11-2025*] We have won the MOBICOM 2025 Best Demo Award (1/30)!
 * [*10-2025*] Our paper on Private 5G Open RAN Testbed has been accepted by SIGCOMM CCR 2025!
 * [*08-2025*] I passed my final defense and became a Doctor! 🎊🎊🎊
 * [*06-2025*] I won the SJTU Development Scholarship for Outstanding Doctoral Graduates.
