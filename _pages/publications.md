@@ -4,14 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Please refer to [Google Scholar](https://scholar.google.com/citations?user=vVBJRXYAAAAJ&hl=en) for my lastest publication list.
+
+**Please refer to [Google Scholar](https://scholar.google.com/citations?user=vVBJRXYAAAAJ&hl=en) for my lastest publication list.**
 
 ## *Conferences*
 
 <!-- graphrx -->
 <img align="left" width="300" src="/images/graphrx.png" style="margin-right: 15px" /> 
 
-GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neural Receivers [[Paper](https://tesiawang.github.io/files/a223-wang%20final.pdf)] \
+GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neural Receivers [[Paper](https://tesiawang.github.io/files/a223-wang%20final.pdf)][[Code](https://github.com/tesiawang/GraphRx)] \
  **T. Wang**, X. Wang, and G. Y. Li \
     *Accepted by IEEE INFOCOM 2025 (**Acceptance rate=18.6%**)*. <br>
 <br>
@@ -20,7 +21,7 @@ GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neur
 <!-- fedpda -->
 <img align="left" width="300" src="/images/fedpda.png" style="margin-right: 15px" /> 
 
-FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers [[Paper](https://tesiawang.github.io/files/a224-wang%20final.pdf)] \
+FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers [[Paper](https://tesiawang.github.io/files/a224-wang%20final.pdf)][[Code](https://github.com/tesiawang/FedPDA)] \
  S. Wang, **T. Wang**, and X. Wang \
     *Accepted by IEEE INFOCOM 2025 (**Acceptance rate=18.6%**)*. <br>
 <br>
