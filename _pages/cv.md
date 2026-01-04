@@ -40,4 +40,11 @@ redirect_from:
 ### Wireless Networking and Artificial Intelligence Lab, Shanghai Jiao Tong University
 *Graduate Research Assistant*  (*Sep 2020 - On*)  
 - Worked on **AI for Network**: network slicing for radio access networks, resource and topology planning for high-frequency backhaul mesh networks, and etc.
-- Location: Shanghai, China
+- Location: Shanghai, China<br>
+<br>
+
+## Technical Skills
+- **Programming Languages:** Matlab, Python, C++
+- **Python Libraries:** PyTorch, TensorFlow, Sionna
+- **Natural Languages:** Mandarin (Native), English (Proficiency level), French (Elementary level)
+- **Standardized Exam Grades:** IELTS 8.0 (L9/R8.5/W7.5/ S7.5, taken in 2023), GRE 328 + 4 (V161/Q167/W4.0, taken in 2023)
