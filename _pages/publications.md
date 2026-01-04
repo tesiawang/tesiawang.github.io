@@ -26,7 +26,7 @@ A. Ferguson, U. Pawarm **T. Wang**, M. Marina \
 <br>
 
 <!-- campus5g -->
-<img align="left" width="300" src="/images/campus5g.png" style="margin-right: 15px" /> 
+<img align="left" width="300" src="/images/campus5g_demo.png" style="margin-right: 15px" /> 
 Demo: A Campus Scale Private 5G Open RAN Testbed [[Paper](https://tesiawang.github.io/files/compus5g_demo.pdf)] \
 A. Ferguson, U. Pawarm **T. Wang**, M. Marina \
     *ACM MOBICOM 2025 **Best Demo***. <br>
