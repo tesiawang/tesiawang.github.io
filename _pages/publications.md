@@ -8,12 +8,28 @@ author_profile: true
 **Please refer to [Google Scholar](https://scholar.google.com/citations?user=vVBJRXYAAAAJ&hl=en) for my lastest publication list.**
 
 ## *Conferences*
-<!-- graphrx -->
-<img align="left" width="300" src="/images/graphrx.png" style="margin-right: 15px" /> 
+<!-- channelmae -->
+<img align="left" width="300" src="/images/channelmae.png" style="margin-right: 15px" /> 
 
-ChannelMAE: Self-Supervised Learning Assisted Online Adaptation of Neural Channel Estimators [[Paper](https://tesiawang.github.io/files/a223-wang%20final.pdf)][[Code](https://github.com/tesiawang/ChannelMAE)] \
- **T. Wang**, X. Wang, and G. Y. Li \
+ChannelMAE: Self-Supervised Learning Assisted Online Adaptation of Neural Channel Estimators [[Paper](https://tesiawang.github.io/files/channelMAE.pdf)][[Code](https://github.com/tesiawang/ChannelMAE)] \
+ **T. Wang**, Y. Huang, and X. Wang \
     *Accepted by IEEE INFOCOM 2026 (**Acceptance rate=18.9%**)*. <br>
+<br>
+<br>
+
+<!-- campus5g -->
+<img align="left" width="300" src="/images/campus5g.png" style="margin-right: 15px" /> 
+Campus5G: A Campus Scale Private 5G Open RAN Testbed [[Paper](https://tesiawang.github.io/files/campus5g.pdf)]\
+A. Ferguson, U. Pawarm **T. Wang**, M. Marina \
+    *ACM SIGCOMM CCR 2025. <br>
+<br>
+<br>
+
+<!-- campus5g -->
+<img align="left" width="300" src="/images/campus5g.png" style="margin-right: 15px" /> 
+Demo: A Campus Scale Private 5G Open RAN Testbed [[Paper](https://tesiawang.github.io/files/compus5g_demo.pdf)]\
+A. Ferguson, U. Pawarm **T. Wang**, M. Marina \
+    *ACM MOBICOM 2025 **Best Demo***. <br>
 <br>
 <br>
 
