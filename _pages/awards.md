@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-- ACM MOBICOM 2025 Best Demo Award (1/30), 2025
+- ACM MOBICOM 2025 Best Demo Award, 2025
 - SJTU Development Scholarship for Outstanding Doctoral Graduates, 2024-2025
 - Graduate Student Excellence Scholarship, 2023 - 2024 
 - Full scholarship of SJTU Zhiyuan Honors Doctorate Program (Top 1%), 2020 - 2025
