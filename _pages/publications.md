@@ -8,13 +8,22 @@ author_profile: true
 **Please refer to [Google Scholar](https://scholar.google.com/citations?user=vVBJRXYAAAAJ&hl=en) for my lastest publication list.**
 
 ## *Conferences*
+<!-- graphrx -->
+<img align="left" width="300" src="/images/graphrx.png" style="margin-right: 15px" /> 
+
+ChannelMAE: Self-Supervised Learning Assisted Online Adaptation of Neural Channel Estimators [[Paper](https://tesiawang.github.io/files/a223-wang%20final.pdf)][[Code](https://github.com/tesiawang/ChannelMAE)] \
+ **T. Wang**, X. Wang, and G. Y. Li \
+    *Accepted by IEEE INFOCOM 2026 (**Acceptance rate=18.9%**)*. <br>
+<br>
+<br>
+
 
 <!-- graphrx -->
 <img align="left" width="300" src="/images/graphrx.png" style="margin-right: 15px" /> 
 
 GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neural Receivers [[Paper](https://tesiawang.github.io/files/a223-wang%20final.pdf)][[Code](https://github.com/tesiawang/GraphRx)] \
  **T. Wang**, X. Wang, and G. Y. Li \
-    *Accepted by IEEE INFOCOM 2025 (**Acceptance rate=18.6%**)*. <br>
+    *Proceedings of IEEE INFOCOM 2025 (**Acceptance rate=18.6%**)*. <br>
 <br>
 <br>
 
@@ -23,7 +32,7 @@ GraphRx: Graph-Based Collaborative Learning among Multiple Cells for Uplink Neur
 
 FedPDA: Collaborative Learning for Reducing Online-Adaptation Frequency of Neural Receivers [[Paper](https://tesiawang.github.io/files/a224-wang%20final.pdf)][[Code](https://github.com/tesiawang/FedPDA)] \
  S. Wang, **T. Wang**, and X. Wang \
-    *Accepted by IEEE INFOCOM 2025 (**Acceptance rate=18.6%**)*. <br>
+    *Proceedings of IEEE INFOCOM 2025 (**Acceptance rate=18.6%**)*. <br>
 <br>
 <br>
 
