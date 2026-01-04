@@ -19,7 +19,7 @@ ChannelMAE: Self-Supervised Learning Assisted Online Adaptation of Neural Channe
 
 <!-- campus5g -->
 <img align="left" width="300" src="/images/campus5g.png" style="margin-right: 15px" /> 
-Campus5G: A Campus Scale Private 5G Open RAN Testbed [[Paper](https://tesiawang.github.io/files/campus5g.pdf)]\
+Campus5G: A Campus Scale Private 5G Open RAN Testbed [[Paper](https://tesiawang.github.io/files/campus5g.pdf)] \
 A. Ferguson, U. Pawarm **T. Wang**, M. Marina \
     *ACM SIGCOMM CCR 2025. <br>
 <br>
@@ -27,7 +27,7 @@ A. Ferguson, U. Pawarm **T. Wang**, M. Marina \
 
 <!-- campus5g -->
 <img align="left" width="300" src="/images/campus5g.png" style="margin-right: 15px" /> 
-Demo: A Campus Scale Private 5G Open RAN Testbed [[Paper](https://tesiawang.github.io/files/compus5g_demo.pdf)]\
+Demo: A Campus Scale Private 5G Open RAN Testbed [[Paper](https://tesiawang.github.io/files/compus5g_demo.pdf)] \
 A. Ferguson, U. Pawarm **T. Wang**, M. Marina \
     *ACM MOBICOM 2025 **Best Demo***. <br>
 <br>
