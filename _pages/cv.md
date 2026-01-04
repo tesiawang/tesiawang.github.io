@@ -25,12 +25,6 @@ redirect_from:
   - Secondary Education<br>
 <br>
 
-## Technical Skills
-- **Programming Languages:** Matlab, Python, C++
-- **Python Libraries:** PyTorch, TensorFlow, Sionna
-- **Natural Languages:** Mandarin (Native), English (Proficiency level), French (Elementary level)
-- **Standardized Exam Grades:** IELTS 8.0 (L9/R8.5/W7.5/ S7.5, taken in 2023), GRE 328 + 4 (V161/Q167/W4.0, taken in 2023)<br>
-<br>
 
 ## Research & Work Experience
 ### Networked System Lab, University of Edinburgh
