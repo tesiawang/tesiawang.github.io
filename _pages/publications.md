@@ -21,7 +21,7 @@ ChannelMAE: Self-Supervised Learning Assisted Online Adaptation of Neural Channe
 <img align="left" width="300" src="/images/campus5g.png" style="margin-right: 15px" /> 
 Campus5G: A Campus Scale Private 5G Open RAN Testbed [[Paper](https://tesiawang.github.io/files/campus5g.pdf)] \
 A. Ferguson, U. Pawarm **T. Wang**, M. Marina \
-    *ACM SIGCOMM CCR 2025. <br>
+    *ACM SIGCOMM CCR 2025*. <br>
 <br>
 <br>
 
