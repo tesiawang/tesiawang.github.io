@@ -11,7 +11,7 @@ author_profile: true
 <!-- channelmae -->
 <img align="left" width="300" src="/images/channelmae.png" style="margin-right: 15px" /> 
 
-ChannelMAE: Self-Supervised Learning Assisted Online Adaptation of Neural Channel Estimators [[Paper](https://tesiawang.github.io/files/channelMAE.pdf)][[Code](https://github.com/tesiawang/ChannelMAE)] \
+ChannelMAE: Self-Supervised Learning Assisted Online Adaptation of Neural Channel Estimators [[Paper](https://tesiawang.github.io/files/channelmae.pdf)][[Code](https://github.com/tesiawang/ChannelMAE)] \
  **T. Wang**, Y. Huang, and X. Wang \
     *Accepted by IEEE INFOCOM 2026 (**Acceptance rate=18.9%**)*. <br>
 <br>
